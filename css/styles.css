@@ -1,0 +1,33 @@
+header {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+}
+main {
+  font-family: Roboto, Arial, Helvetica, sans-serif;
+}
+img {
+  max-width: 100%;
+}
+.specs,
+.rooms {
+  font-size: 20px;
+  font-weight: bold;
+  color: gray;
+}
+.house-title {
+  font-size: 2rem;
+  font-weight: bold;
+}
+.rent {
+  font-size: 20;
+  font-weight: bold;
+  color: red;
+}
+.telephone {
+  font-size: 18px;
+  font-weight: bold;
+}
+.description {
+  color: gray;
+}
